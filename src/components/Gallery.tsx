@@ -40,11 +40,6 @@ export default function Gallery() {
                     viewport={{ once: true, margin: '-100px' }}
                     transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
                 >
-                    <div className="gallery__eyebrow">
-                        <span className="gallery__eyebrow-line" />
-                        <span>信仰的視覺盛宴</span>
-                        <span className="gallery__eyebrow-line" />
-                    </div>
                     <h2 className="gallery__title">廟宇圖集</h2>
                     <p className="gallery__desc">
                         透過鏡頭，捕捉北海宮每一處莊嚴與神聖的瞬間。這裡凝聚了百年的香火與信眾的虔誠，展現東方宗教藝術的極致之美。

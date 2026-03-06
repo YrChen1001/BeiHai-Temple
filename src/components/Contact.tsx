@@ -38,10 +38,6 @@ export default function Contact() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
                     >
-                        <div className="contact-hero__eyebrow">
-                            <span className="contact-hero__eyebrow-line" />
-                            <span>誠心交流 · 結緣十方</span>
-                        </div>
                         <h2 className="contact-hero__title">聯絡資訊</h2>
                     </motion.div>
 
